@@ -1,1 +1,1 @@
-Meu nome é Kassandra e estou fazendo mini curso de Git
+Meu nome é Kassandra e estou fazendo minicurso de Git e GitHub
