@@ -1,0 +1,1 @@
+Meu nome é Kassandra e estou fazendo mini curso de Git
